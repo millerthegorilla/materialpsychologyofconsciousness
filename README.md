@@ -4,7 +4,7 @@ This repository contains the complete text to my book, 'The material psychology 
 
 The book is published, here on github, so that it can be edited openly, adding or subtracting information, through constructive discussion and provision of research.
 
-The book is currently research free, as I haven't had access to a university library and also felt that I should put down my insights first, and then seek to find supporting research or engage in some empirical program of research afterwards.
+The book is currently research free, as I haven't had access to a university library and also felt that I should put down my insights first, and then seek to find supporting research or engage in some empirical program of research afterwards.  It is mostly nonsense, as it happens, but offered me the opportunity to pass the time, and also develop the capacity to write a book.  I intend to approach the subject more seriously in the future and write a book that I will research properly.
 
 It can be forked, pull requests can be made, merge requests can also be made.  If the issues tracker isn't sufficiently powerful to empower quality discussion, then I will create a forum to do so.
 

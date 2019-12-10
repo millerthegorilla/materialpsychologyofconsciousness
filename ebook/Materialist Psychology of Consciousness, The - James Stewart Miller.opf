@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">5f53eb18-d078-4264-8b0e-ae003b8b95fa</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11319c8b-051a-4700-bd01-e3dbae833006</dc:identifier>
         <dc:title>The Materialist Psychology of Consciousness</dc:title>
         <dc:creator opf:file-as="Miller, James Stewart" opf:role="aut">James Stewart Miller</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-12-05T00:00:00+00:00</dc:date>
+        <dc:date>2019-12-10T00:00:00+00:00</dc:date>
         <dc:description>A set of observations about the material (physiology) way in which the mind is constructed.</dc:description>
         <dc:language>eng</dc:language>
         <dc:subject>psychology</dc:subject>
         <dc:subject>consciousness</dc:subject>
         <dc:subject>AI</dc:subject>
         <meta content="{&quot;James Stewart Miller&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-12-05T16:48:37.459699+00:00" name="calibre:timestamp"/>
+        <meta content="2019-12-10T12:02:14.383656+00:00" name="calibre:timestamp"/>
         <meta content="Materialist Psychology of Consciousness, The" name="calibre:title_sort"/>
     </metadata>
     <guide>
